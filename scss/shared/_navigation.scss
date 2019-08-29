@@ -33,7 +33,7 @@
 .header-logo {
   height: 23px;
   width: 93px;
-  background-image: url("../images/Lumin-logo-tall-text-sans-light.svg");
+  background-image: url("../images/Lumin-logo-tall-text-sans.svg");
   background-repeat: no-repeat;
   background-size: 93px 23px;
   display: block;
@@ -41,11 +41,11 @@
   z-index: 10;
 
   @include full-nav-menu-desktop {
-    background-size: 108px 27px;
+    background-size: 140px 70px;
     position: absolute;
-    height: 27px;
-    width: 108px;
-    top: 4px;
+    height: 70px;
+    width: 140px;
+    top: -22px;
     float: none;
   }
 }

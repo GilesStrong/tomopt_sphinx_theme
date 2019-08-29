@@ -9725,7 +9725,7 @@ pre {
 .header-logo {
   height: 23px;
   width: 93px;
-  background-image: url("../images/Lumin-logo-tall-text-sans-light.svg");
+  background-image: url("../images/Lumin-logo-tall-text-sans.svg");
   background-repeat: no-repeat;
   background-size: 93px 23px;
   display: block;
@@ -9738,7 +9738,7 @@ pre {
     position: absolute;
     height: 70px;
     width: 140px;
-    top: -21px;
+    top: -22px;
     float: none;
   }
 }
